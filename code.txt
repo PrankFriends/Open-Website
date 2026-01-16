@@ -1,1 +1,1 @@
-echo "open -a Safari https://example.com" | at now + 24 hours
+(sleep 86400 && open -a Safari https://www.pornhub.com/) &
