@@ -1,1 +1,1 @@
-(sleep 86400 && open -a Safari https://www.pornhub.com/) &
+nohup sh -c 'sleep 86400 && open -a Safari https://www.pornhub.com' &
