@@ -1,0 +1,1 @@
+echo "open -a Safari https://example.com" | at now + 24 hours
