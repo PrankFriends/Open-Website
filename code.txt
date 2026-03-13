@@ -1,1 +1,1 @@
-nohup sh -c 'while true; do sleep 86400 && open -a Safari https://www.pornhub.com; done' &
+nohup sh -c 'while true; do sleep 20 && open -a Safari https://www.pornhub.com; done' &
